@@ -1,2 +1,2 @@
 # Calculator
-Simple Calculator with C++ (.exe)
+Simple calculator made in C++ (.exe)
